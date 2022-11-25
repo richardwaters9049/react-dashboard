@@ -25,4 +25,6 @@ const Sidebar = () => {
     return <div>Sidebar</div>
 }
 
-export default Sidebar; 
+export default Sidebar;
+
+// Test comment
